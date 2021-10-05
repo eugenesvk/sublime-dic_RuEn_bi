@@ -1,0 +1,8 @@
+{"schema_version": "3.0.0",
+"packages": [
+  { "name"   	: "Russian + English",
+    "details"	: "https://github.com/eugenesvk/sublime-dic_RuEn_bi",
+    "labels" 	: ["dictionary", "Russian", "English", "bilingual"],
+    "releases": [{ "sublime_text": "*", "tags":true }]
+  }]
+}
